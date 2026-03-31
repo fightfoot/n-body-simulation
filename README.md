@@ -1,4 +1,3 @@
-# n-body-simulation
 # N-Body Gravitational Simulation
 
 This project simulates gravitational interactions between particles using:
